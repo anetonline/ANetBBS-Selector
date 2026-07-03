@@ -1,3 +1,6 @@
+<img width="1178" height="844" alt="image" src="https://github.com/user-attachments/assets/f6ca797e-6344-4f33-a1ae-99d6206c8a2e" />
+
+
 # ANetBBS Selector
 
 ANetBBS Selector is a small Python-based BBS connection selector.
