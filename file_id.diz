@@ -1,0 +1,16 @@
+ANetBBS Selector v1.0
+---------------------
+Classic BBS-style connection selector for
+Telnet, SSH, and Rlogin.
+
+Callers connect to one public entry point,
+view an ANSI menu, choose a BBS, and are
+relayed to the selected system.
+
+Includes Python selector scripts, systemd
+service example, SSH forwarding support,
+and setup instructions.
+
+Created by StingRay / A-Net Online
+https://a-net.online
+https://bbs.a-net.fyi
