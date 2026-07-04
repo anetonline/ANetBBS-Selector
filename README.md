@@ -303,4 +303,4 @@ Either stop the conflicting service or change `LISTEN_PORT` in the selector scri
 
 ## License
 
-Add your chosen license before publishing. MIT is a common choice for small open-source utility scripts.
+https://github.com/anetonline/ANetBBS-Selector?tab=GPL-3.0-1-ov-file
