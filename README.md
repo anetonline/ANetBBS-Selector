@@ -301,6 +301,11 @@ sudo ss -ltnp | grep -E ':1337|:1338|:1339'
 
 Either stop the conflicting service or change `LISTEN_PORT` in the selector script.
 
+ANetIP Manager
+<img width="882" height="528" alt="image" src="https://github.com/user-attachments/assets/e1100b17-b5ae-447a-acf6-d84d3919aecf" />
+
+
+
 ## License
 
 https://github.com/anetonline/ANetBBS-Selector?tab=GPL-3.0-1-ov-file
